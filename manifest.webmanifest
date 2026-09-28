@@ -1,0 +1,15 @@
+{
+  "name": "CENTRAL 190",
+  "short_name": "CENTRAL 190",
+  "description": "Protótipo de jogo de patrulhamento policial",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
